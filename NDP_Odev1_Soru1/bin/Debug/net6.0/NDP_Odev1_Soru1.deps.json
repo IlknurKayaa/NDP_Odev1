@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NDP_Odev1_Soru1/1.0.0": {
+        "runtime": {
+          "NDP_Odev1_Soru1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NDP_Odev1_Soru1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

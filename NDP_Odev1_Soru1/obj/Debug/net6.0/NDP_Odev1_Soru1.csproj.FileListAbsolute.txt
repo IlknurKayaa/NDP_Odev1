@@ -1,0 +1,15 @@
+C:\Users\ilkay\source\repos\NDP_Odev1_Soru1\bin\Debug\net6.0\NDP_Odev1_Soru1.exe
+C:\Users\ilkay\source\repos\NDP_Odev1_Soru1\bin\Debug\net6.0\NDP_Odev1_Soru1.deps.json
+C:\Users\ilkay\source\repos\NDP_Odev1_Soru1\bin\Debug\net6.0\NDP_Odev1_Soru1.runtimeconfig.json
+C:\Users\ilkay\source\repos\NDP_Odev1_Soru1\bin\Debug\net6.0\NDP_Odev1_Soru1.dll
+C:\Users\ilkay\source\repos\NDP_Odev1_Soru1\bin\Debug\net6.0\NDP_Odev1_Soru1.pdb
+C:\Users\ilkay\source\repos\NDP_Odev1_Soru1\obj\Debug\net6.0\NDP_Odev1_Soru1.csproj.AssemblyReference.cache
+C:\Users\ilkay\source\repos\NDP_Odev1_Soru1\obj\Debug\net6.0\NDP_Odev1_Soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\source\repos\NDP_Odev1_Soru1\obj\Debug\net6.0\NDP_Odev1_Soru1.AssemblyInfoInputs.cache
+C:\Users\ilkay\source\repos\NDP_Odev1_Soru1\obj\Debug\net6.0\NDP_Odev1_Soru1.AssemblyInfo.cs
+C:\Users\ilkay\source\repos\NDP_Odev1_Soru1\obj\Debug\net6.0\NDP_Odev1_Soru1.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\source\repos\NDP_Odev1_Soru1\obj\Debug\net6.0\NDP_Odev1_Soru1.dll
+C:\Users\ilkay\source\repos\NDP_Odev1_Soru1\obj\Debug\net6.0\refint\NDP_Odev1_Soru1.dll
+C:\Users\ilkay\source\repos\NDP_Odev1_Soru1\obj\Debug\net6.0\NDP_Odev1_Soru1.pdb
+C:\Users\ilkay\source\repos\NDP_Odev1_Soru1\obj\Debug\net6.0\NDP_Odev1_Soru1.genruntimeconfig.cache
+C:\Users\ilkay\source\repos\NDP_Odev1_Soru1\obj\Debug\net6.0\ref\NDP_Odev1_Soru1.dll
